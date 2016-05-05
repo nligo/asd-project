@@ -1,0 +1,9 @@
+body { font-family: "microsoft yahei"; }
+
+.xx { color: #f68e3a; margin-right: 5px; }
+
+.pay { margin-top: 20px; max-width: 600px; border-top: 1px #999 solid; padding: 50px 10px; }
+.pay img { display: inline; }
+.pay a { color: #333; }
+.pay h3 { color: red; }
+.pay .btn1 { margin-left: 20px; }
