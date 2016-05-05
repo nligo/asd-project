@@ -18,9 +18,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['img_url']   = 'http://awww.gf.com/uploads/';
-$config['base_url']   = 'http://awww.gf.com';
-$config['dl_url']   = 'http://awww.gf.com/uploads/download/';
+$config['img_url']   = 'http://my.asd.com/uploads/';
+$config['base_url']   = 'http://my.asd.com/';
+$config['dl_url']   = 'http://my.asd.com/uploads/download/';
 
 /*
 |--------------------------------------------------------------------------
