@@ -1,7 +1,8 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed');
 header('content-type:text/html;charset="utf-8"');
 
-/**@author  gf
+/**
+ * @author  gf
  * 登录控制器
  * Class Login
  */

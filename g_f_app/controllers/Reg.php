@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
+ * @author  gf
  * 注册用户
  * Class Reg
  */

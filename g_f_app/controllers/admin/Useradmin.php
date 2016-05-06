@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
+ * @author  gf
  * Class 用户管理
  */
 class Useradmin extends CI_Controller

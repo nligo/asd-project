@@ -2,6 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
+ * @author  gf
  * 接手信息
  * Class Jieshouinfo
  */
